@@ -1,0 +1,16 @@
+{
+    "name": "nodejsapp",
+    "version": "1.0.0",
+    "description": "",
+    "main": "project.js",
+    "scripts": {
+      "start": "nodemon project.js"
+    },
+    "author": "oliver",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.18.2",
+      "mongoose": "^6.9.2",
+      "nodemon": "^2.0.20"
+    }
+}
